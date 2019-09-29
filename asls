@@ -1,0 +1,39 @@
+pusing resource  first commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   .sass-cache/0cf35882675105178421ff445feeaa15fa4d10ab/minima.scssc
+#	new file:   .sass-cache/e120c2257ffdee6ea4dc1e1673d4774d16c0fa8c/_base.scssc
+#	new file:   .sass-cache/e120c2257ffdee6ea4dc1e1673d4774d16c0fa8c/_layout.scssc
+#	new file:   .sass-cache/e120c2257ffdee6ea4dc1e1673d4774d16c0fa8c/_syntax-highlighting.scssc
+#	new file:   404.html
+#	new file:   Gemfile
+#	new file:   Gemfile.lock
+#	new file:   _config.yml
+#	new file:   _posts/2019-09-29-Cancer-Cure-Naturopathy.markdown
+#	new file:   _site/404.html
+#	new file:   _site/README.md
+#	new file:   _site/about/index.html
+#	new file:   _site/assets/main.css
+#	new file:   _site/assets/minima-social-icons.svg
+#	new file:   _site/cancer/cure/naturopathy/2019/09/29/Cancer-Cure-Naturopathy.html
+#	new file:   _site/cancercure
+#	new file:   _site/cancercure.pub
+#	new file:   _site/feed.xml
+#	new file:   _site/index.html
+#	new file:   _site/resources/Cure Yourself Book_Hindi.pdf
+#	new file:   _site/resources/The.Gerson.Therapy.The.Proven.Nutritional.Program.for.Cancer.and.Other.Illnesses.pdf
+#	new file:   _site/resources/cy-book.pdf
+#	new file:   about.md
+#	new file:   cancercure
+#	new file:   cancercure.pub
+#	new file:   index.md
+#	new file:   resources/Cure Yourself Book_Hindi.pdf
+#	new file:   resources/The.Gerson.Therapy.The.Proven.Nutritional.Program.for.Cancer.and.Other.Illnesses.pdf
+#	new file:   resources/cy-book.pdf
+#
